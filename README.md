@@ -1,13 +1,5 @@
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -84,14 +76,6 @@ This is an example of how to list things you need to use the software and how to
   flutter run
   ```
 
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/sahilkargutkar/palghar-tourism.git
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -122,19 +106,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [Sahil Kargutkar](mailto:sahilkargutkar.sk@gmail.com) - email
-
-Project Link: [https://github.com/sahilkargutkar/palghar-tourism](https://github.com/sahilkargutkar/palghar-tourism)
 
 
 
